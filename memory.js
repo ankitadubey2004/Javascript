@@ -3,7 +3,7 @@
 let myYoutubename = "ankitadubeydotcom";
 let anothername =  myYoutubename;
 anothername = "chaiaurcode";
-//Stack memory mein value nahi di jaata uski copy di jaati hai JAISE anothername mein joi value hai vo myYoutubename se nahi jaayegi vahan uski copy di jaayegi
+//Stack memory mein  original value nahi di jaata uski copy di jaati hai JAISE anothername mein joi value hai vo myYoutubename se nahi jaayegi vahan uski copy di jaayegi
 console.log(myYoutubename);
 console.log(anothername);
  
